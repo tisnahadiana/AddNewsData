@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AddNewsData</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_article_news">Berita Terbaru</string>
+    <string name="message_if_no_news">Tidak ada berita</string>
+    <string name="action_show_all"><![CDATA[Lihat Semua >]]></string>
 </resources>

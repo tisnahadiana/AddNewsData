@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="id.deeromptech.addnewsdata" />
+                  <option name="mobileSdkAppId" value="1:766685104402:android:ef322b17a31e806b17cbcb" />
+                  <option name="projectId" value="newsapp-48ba7" />
+                  <option name="projectNumber" value="766685104402" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
