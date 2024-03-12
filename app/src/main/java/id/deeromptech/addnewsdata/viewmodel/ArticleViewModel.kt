@@ -27,7 +27,7 @@ class ArticleViewModel : ViewModel() {
     private val _error = MutableLiveData<Throwable>()
     val error: LiveData<Throwable> = _error
 
-    fun getRecommendArticle() {
+    fun getAllArticle() {
         viewModelScope.launch {
             _recommendArticles.emit(Resource.Loading())
         }

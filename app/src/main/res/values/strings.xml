@@ -6,4 +6,8 @@
     <string name="message_if_no_news">Tidak ada berita</string>
     <string name="action_show_all"><![CDATA[Lihat Semua >]]></string>
     <string name="request_none_data">.................</string>
+    <string name="message_if_disconnect">Tidak Terhubung Dengan Internet</string>
+    <string name="message_if_error">Terjadi kesalahan, silakan coba lagi</string>
+    <string name="message_permission">Anda harus mengizinkan izin yang diperlukan di Pengaturan secara manual</string>
+    <string name="error_occurred">Ups terjadi kesalahan</string>
 </resources>
